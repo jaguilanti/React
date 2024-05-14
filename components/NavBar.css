@@ -1,0 +1,60 @@
+header {
+    width: 100%;
+    height: 8rem;
+  
+  }
+  
+  header div {
+    position: fixed;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: beige;
+    color: black;
+  }
+  
+  header h1 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 3rem;
+    margin: 0;
+  }
+  nav{
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+  }
+  nav ul {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    font-family: 'Rethink Sans', sans-serif;
+    font-weight: bolder;
+    margin: 0;
+    padding: .5rem;
+  
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+    background-color: white;
+    padding: .2rem;
+    border-radius: 1rem;
+    border: solid 4px white;
+  }
+  
+  nav ul li:hover {
+    background-color: #d5bdafff;
+    color: white;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+  }
