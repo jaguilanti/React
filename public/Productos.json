@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta",
+        "categoria": "Indumentaria",
+        "precio": 55800,
+        "stock": 10,
+        "imagen": "../public/imagenes/outfits/7 ideas de outfits perfectos para ir a la playa en Semana Santa.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalón",
+        "categoria": "Indumentaria",
+        "precio": 40000,
+        "stock": 25,
+        "imagen": "../public/imagenes/outfits/des.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Botas",
+        "categoria": "Calzado",
+        "precio": 95000,
+        "stock": 12,
+        "imagen": "../public/imagenes/zapatos/zapatos4.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Cartera Mini",
+        "categoria": "Accesorios",
+        "precio": 125000,
+        "stock": 7,
+        "imagen": "../public/imagenes/carteras/cartera1.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Conjunto Sastrero",
+        "categoria": "Indumentaria",
+        "precio": 82500,
+        "stock": 10,
+        "imagen": "../public/imagenes/outfits/descarga (5).jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Conjunto Winter",
+        "categoria": "Indumentaria",
+        "precio": 399999,
+        "stock": 18,
+        "imagen": "../public/imagenes/outfits/tutorial-cabello - mujer de 10_ Guía real para la mujer actual_ entérate ya_.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Zapatos",
+        "categoria": "Calzado",
+        "precio": 70500,
+        "stock": 5,
+        "imagen": "../public/imagenes/zapatos/zapatos3.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Prensas",
+        "categoria": "Accesorios",
+        "precio": 8000,
+        "stock": 0,
+        "imagen": "../public/imagenes/accesorios101.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Texanas",
+        "categoria": "Calzado",
+        "precio": 120000,
+        "stock": 4,
+        "imagen": "../public/imagenes/zapatos/tex2.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Mono",
+        "categoria": "Indumentaria",
+        "precio": 90000,
+        "stock": 12,
+        "imagen": "../public/imagenes/outfits/10 outfits rápidos de dos prendas para la verte bien en la oficina.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Vestido",
+        "categoria": "Indumentaria",
+        "precio": 300000,
+        "stock": 30,
+        "imagen": "../public/imagenes/outfits/elegant.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Aros Mariposa",
+        "categoria": "Accesorios",
+        "precio": 5000,
+        "stock": 6,
+        "imagen": "../public/imagenes/aros/ar2.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Cartera Dolce",
+        "categoria": "Accesorios",
+        "precio": 500000,
+        "stock": 2,
+        "imagen": "../public/imagenes/carteras/Dolce&Gabbana.jpg"
+    }
+]

@@ -5,7 +5,7 @@ function Footer () {
     <>
       <div>          
         <footer>
-            <p>&copy; 2024 SORELLA</p>
+          <p>&copy; 2024 SORELLA</p>
         </footer>
       </div>
     </>

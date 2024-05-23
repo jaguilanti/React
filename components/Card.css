@@ -1,0 +1,44 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 20px;
+    padding: 20px;
+    margin-bottom: 5rem;
+    background-image: url(./imagenes/fondos/fondo103.png);
+    background-size: 100%;
+}
+
+.producto {
+    
+    padding: 10px;
+    text-align: center;
+    border-radius: 2rem;
+    border: solid 2px rgb(255, 181, 71);
+    background-color: rgb(253, 221, 174);
+}
+
+.contenedor-img {
+    display: block;
+    height: 50%;
+}
+
+.img-producto {
+    width: 10rem;
+    height: 100%;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+    padding: 1.2rem;
+}
+
+.agregar-al-carrito {
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: .2rem;
+    font-family: 'Rethink Sans', sans-serif;
+    cursor: pointer;
+    border: solid antiquewhite;
+}
+
+.agregar-al-carrito:hover {
+    background-color: darksalmon;
+}
