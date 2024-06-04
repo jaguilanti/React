@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Productos from './Productos';
 import data from '../public/Productos.json';
 
-function Indumentaria() {
+function Calzado() {
   const [productosIndumentaria, setProductosIndumentaria] = useState([]);
 
   useEffect(() => {
@@ -18,4 +18,4 @@ function Indumentaria() {
   );
 }
 
-export default Indumentaria;
+export default Calzado;
