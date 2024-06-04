@@ -134,7 +134,7 @@ body h2 {
 
 
 
-/* Estilos para el carrito */
+/*  Estilos para el carrito 
 
 .nav-carrito {
   display: flex;
@@ -246,7 +246,7 @@ body h2 {
   text-align: center;
   width: 100%;
   
-}
+} */
 
 @media screen and (max-width: 560px){ 
   .nav-carrito {

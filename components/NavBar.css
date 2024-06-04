@@ -44,6 +44,7 @@ nav ul li {
   padding: 0.2rem;
   border-radius: 1rem;
   border: solid 4px white;
+  cursor: pointer;
 }
 
 nav ul li:hover {
